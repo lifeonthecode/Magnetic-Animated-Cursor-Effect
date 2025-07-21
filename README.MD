@@ -19,7 +19,7 @@ This is a simple and beautiful web project demonstrating a **magnetic animated c
 
 ![Demo Screenshot](screenshot.png)
 
-[🔗 Live Preview](https://your-live-demo-link.com) <!-- Replace this with your actual live link -->
+[🔗 Live Preview](https://lifeonthecode.github.io/Magnetic-Animated-Cursor-Effect/) <!-- Replace this with your actual live link -->
 
 ---
 
@@ -46,7 +46,7 @@ project-folder/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/animated-cursor-buttons.git
+git clone https://github.com/lifeonthecode/Magnetic-Animated-Cursor-Effect.git
 Navigate to the project directory:
 
 bash
